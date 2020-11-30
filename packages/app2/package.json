@@ -1,9 +1,0 @@
-{
-  "name": "app2",
-  "version": "2.0.1",
-  "main": "index.js",
-  "license": "MIT",
-  "scripts": {
-    "start": "echo app2"
-  }
-}
