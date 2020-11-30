@@ -1,5 +1,5 @@
 {
-  "name": "app2",
+  "name": "@loveyunk/lerna-app2",
   "version": "1.0.0",
   "description": "> TODO: description",
   "author": "loveyunk <mjjccc@126.com>",
@@ -13,9 +13,7 @@
   "files": [
     "lib"
   ],
-  "publishConfig": {
-    "registry": "https://registry-cynpm.chunyutianxia.com/"
-  },
+  "publishConfig": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/loveyunk/lerna-demo.git"
