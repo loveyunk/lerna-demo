@@ -4,7 +4,11 @@
   "devDependencies": {
     "lerna": "^3.22.1"
   },
+  "workspaces": [
+    "packages/*"
+  ],
   "scripts": {
+    "test": "yarn workspace @loveyunk/lerna-app1 test",
     "start": "lerna run start --since",
     "new-version": "lerna version --yes",
     "bootstrap": "lerna bootstrap",
