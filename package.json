@@ -7,6 +7,7 @@
   "scripts": {
     "start": "lerna run start --since",
     "new-version": "lerna version --yes",
-    "bootstrap": "lerna bootstrap"
+    "bootstrap": "lerna bootstrap",
+    "publish": "lerna publish"
   }
 }
