@@ -1,6 +1,6 @@
 {
   "name": "@loveyunk/lerna-app2",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "> TODO: description",
   "author": "loveyunk <mjjccc@126.com>",
   "homepage": "https://github.com/loveyunk/lerna-demo#readme",
@@ -31,6 +31,6 @@
     "jest": "^26.6.3"
   },
   "dependencies": {
-    "@loveyunk/lerna-app1": "^1.0.7"
+    "@loveyunk/lerna-app1": "^1.0.8"
   }
 }
