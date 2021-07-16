@@ -5,6 +5,7 @@
   "useWorkspaces": true,
   "command": {
     "version": {
+      "noPrivate": true,
       "allowBranch": "master",
       "message": "chore(release): publish %s"
     }
