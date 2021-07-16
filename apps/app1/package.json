@@ -1,6 +1,7 @@
 {
   "name": "@loveyunk/lerna-apps1",
   "version": "1.0.9",
+  "private": "true",
   "description": "> TODO: description",
   "author": "loveyunk <mjjccc@126.com>",
   "homepage": "https://github.com/loveyunk/lerna-demo#readme",
