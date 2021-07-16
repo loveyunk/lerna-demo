@@ -6,4 +6,4 @@ function app1(a, b) {
   return a + b;
 }
 
-console.log('app1')
+console.log('app1!')
