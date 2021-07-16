@@ -9,5 +9,5 @@
       "message": "chore(release): publish %s"
     }
   },
-  "ignoreChanges": ["apps"]
+  "ignoreChanges": ["apps/**"]
 }
