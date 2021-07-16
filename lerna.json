@@ -4,9 +4,10 @@
   "version": "independent",
   "useWorkspaces": true,
   "command": {
-    "publish": {
+    "version": {
       "allowBranch": "master",
-      "message": "chore(release): publish %s"
+      "message": "chore(release): publish %s",
+      "conventionalCommits": true
     }
   }
 }
