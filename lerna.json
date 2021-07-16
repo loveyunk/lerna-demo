@@ -4,8 +4,9 @@
   "version": "independent",
   "useWorkspaces": true,
   "command": {
-    "publish": {
-      "allowBranch": ["master"]
+    "version": {
+      "allowBranch": "master",
+      "message": "chore(release): publish %s"
     }
   }
 }
