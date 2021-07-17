@@ -4,10 +4,10 @@
   "version": "independent",
   "useWorkspaces": true,
   "command": {
-    "version": {
-      "noPrivate": true,
+    "publish": {
       "allowBranch": "master",
-      "message": "chore(release): publish %s"
+      "message": "chore(release): publish %s",
+      "ignoreChanges": ["apps/**", "**/*.test.js", "**/*.spec.js", "**/*.mdx", "**/*.md"]
     }
   }
 }
